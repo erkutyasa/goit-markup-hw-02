@@ -29,6 +29,7 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+
 .list {
     list-style-type: none;
 }
@@ -57,10 +58,10 @@ font-style: normal;
 .address-ul .list .etiket:hover {
     color: #404bbf;
 }
-.section-first {
+.section-1 {
     background-color: #2E2F42;
 }
-.section-first-h1 {
+.section-h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -104,7 +105,7 @@ font-style: normal;
 .section-3 {
     background-color: #F4F4FD;
 }
-.section-3-header {
+.section3-header {
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
