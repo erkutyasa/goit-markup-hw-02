@@ -22,6 +22,13 @@ body {
 .nav-bar {
     background-color: #FFFFFF;
 }
+.list-h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
 .list {
     list-style-type: none;
 }
@@ -39,7 +46,7 @@ body {
     color: #404bbf;
 }
 .address {
-font-size: normal;
+font-style: normal;
 }
 .address-ul .list .etiket {
     color: #434455;
@@ -81,7 +88,7 @@ font-size: normal;
 .section-ul .list{
     background-color: #FFFFFF;
 }
-.section-ul .list .subtitle{
+.section-ul .list .list-h3{
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -102,7 +109,7 @@ font-size: normal;
     text-align: center;
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 0.0.2em;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 .section-4 {
