@@ -22,7 +22,7 @@ body {
 .nav-bar {
     background-color: #FFFFFF;
 }
-.list-h2 {
+.list-htwo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -58,10 +58,10 @@ font-style: normal;
 .address-ul .list .etiket:hover {
     color: #404bbf;
 }
-.section-1 {
+.section-one {
     background-color: #2E2F42;
 }
-.section-h1 {
+.section-hone {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -83,13 +83,13 @@ font-style: normal;
     background-color:#404BBF;
     color: #ffffff;
 }
-.section-2 {
+.section-two {
     background-color: #FFFFFF;
 }
 .section-ul .list{
     background-color: #FFFFFF;
 }
-.section-ul .list .list-h3{
+.section-ul .list .list-htr{
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -102,10 +102,10 @@ font-style: normal;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.section-3 {
+.section-tr {
     background-color: #F4F4FD;
 }
-.section3-header {
+.sectiontr-header {
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
@@ -113,7 +113,7 @@ font-style: normal;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.section-4 {
+.section-four {
     background-color: #FFFFFF;
 }
 .footer {
@@ -136,4 +136,7 @@ font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #F4F4FD;
+}
+.imagelevelfour {
+    width: 360px;
 }
